@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Myriad Pro", Arial, Helvetica, sans-serif !important; }
+
+.color-blue {
+  color: #074990; }
+
+.color-grey {
+  color: #737172; }
+
+.color-red {
+  color: #d82528; }
+
+#bordr-none {
+  border-left: none; }
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 30px; }
+
+.email-header {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("https://cdn1.savepice.ru/uploads/2019/4/15/01cbfea38b2d80a5d656d4f39884c5f6-full.jpg");
+  background-size: cover;
+  background-position: 0 -80px;
+  padding-bottom: 20px; }
+
+.section1 {
+  border-left: 3px solid #737172; }
+  .section1 p {
+    font-weight: bold;
+    padding-left: 15px;
+    margin: 8px 0; }
+
+.section2 {
+  border-left: 3px solid #074990;
+  margin-top: 20px; }
+  .section2 p {
+    padding-left: 15px;
+    margin: 8px 0;
+    font-weight: bold; }
+
+.section3 {
+  border-left: 3px solid #d82528;
+  margin-top: 20px; }
+  .section3 p {
+    padding-left: 15px;
+    margin: 8px 0;
+    font-weight: bold; }
+  .section3 .site {
+    color: #074990; }
+
+.email-footer {
+  background-color: #074990;
+  padding: 30px 0; }
+  .email-footer .col {
+    width: 120px;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    height: 100%;
+    border-left: 3px solid #737172;
+    vertical-align: top; }
+    .email-footer .col h4 {
+      text-align: center;
+      margin: 0; }
+    .email-footer .col ul {
+      margin-top: 15px;
+      padding-inline-start: 0;
+      padding: 0 15px; }
+      .email-footer .col ul li {
+        list-style: none;
+        margin-bottom: 30px;
+        font-size: 12px; }
+
+/*# sourceMappingURL=style.css.map */
