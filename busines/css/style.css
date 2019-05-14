@@ -563,7 +563,15 @@ h2 i {
     text-align: center;
     margin: 0 auto;
 }
-
+.project ul{
+    list-style: none;
+}
+.project ul li{
+    padding-left: 30px;
+    background-image: url(../img/circle.png);
+    background-repeat: no-repeat;   
+    background-position: 0 6px;
+}
 .pro-item{
     max-width: 900px;
     height: 300px;
