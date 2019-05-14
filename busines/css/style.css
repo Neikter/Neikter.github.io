@@ -556,6 +556,61 @@ h2 i {
     bottom: 20px;
     left: 25px;
 }
+.project{
+    max-width: 900px;
+    margin-top: 60px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.pro-item{
+    max-width: 900px;
+    height: 300px;
+    /*background: #ccc;*/
+    /*float: right;*/
+    margin-bottom: 20px;
+}
+.pro-item h3{
+    font-size: 35px;
+    font-weight: normal;
+    line-height: 35px;
+    margin-top: 20px;
+}
+.pro-item li{
+    line-height: 30px;
+}
+.project .pro-content {
+    width: 450px;
+    text-align: left;
+}
+.project .fr{
+    float: right;
+}
+.project .fl{
+    float: left;
+    padding-left: 50px;
+}
+.project .pro1{
+    background-image: url("../img/my_proj_bg1.jpg");
+    text-align: right;
+}
+.project .pro2{
+    background-image: url("../img/my_proj_bg2.jpg");
+    text-align: left;
+}
+.project .pro3{
+    background-image: url("../img/my_proj_bg3.jpg");
+    text-align: left;
+}
+.project .pro4{
+    background-image: url("../img/my_proj_bg4.jpg");
+    text-align: left;
+}
+.project .pro5{
+    background-image: url("../img/my_proj_bg5.jpg");
+    text-align: left;
+}
 .getit .i1 {
     background: url(../img/i1b.png);
 }
