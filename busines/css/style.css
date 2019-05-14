@@ -519,26 +519,36 @@ h2 i {
     margin: 10px;
     border: 1px solid #ccc;
     border-radius: 0;
-    height: 300px;
+    height: 350px;
     background: #fffdfd;
+    position: relative;
+    padding-top: 20px;
 }
 .getit h4{
     margin-top: 0;
+    margin-bottom: 50px;
     font-weight: bold;
     font-size: 16px;
 }
 .getit .rtxt{
-    margin: 35px 0;
+    position: absolute;
+    bottom: 100px;
+    font-weight: bold;
 }
 .getit p{
     font-size: 12px;
+    font-weight: normal;
+    color: #666;
 }
 .getit .offer{
     font-size: 14px;
     width: 150px;
     line-height: 45px;
     height: 45px;
-    margin-top: 15px;
+    margin: 0;
+    position: absolute;
+    bottom: 20px;
+    left: 25px;
 }
 .getit .i1 {
     background: url(../img/i1b.png);
