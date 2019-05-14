@@ -524,6 +524,11 @@ h2 i {
     position: relative;
     padding-top: 20px;
 }
+.getit .round:hover{
+    -webkit-box-shadow: 0px 0px 13px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 13px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 13px -1px rgba(0,0,0,0.75);
+}
 .getit h4{
     margin-top: 0;
     margin-bottom: 50px;
@@ -533,7 +538,7 @@ h2 i {
 .getit .rtxt{
     position: absolute;
     bottom: 100px;
-    font-weight: bold;
+    /*font-weight: bold;*/
 }
 .getit p{
     font-size: 12px;
@@ -648,7 +653,7 @@ h2 i {
     font-weight: 100;
     padding-left: 260px;
     margin-bottom: 30px;
-	margin-top: -60px;
+    margin-top: -60px;
 }
 .sit i {
     font-size: 36px;
@@ -780,7 +785,7 @@ h2 i {
     margin-top: -90px;
 }
 .kom-name a{
-display: none;	
+    display: none;	
 }
 .ooo {
   background: url(../img/bg1.jpg);
