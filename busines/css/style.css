@@ -574,13 +574,13 @@ h2 i {
 }
 .pro-item{
     max-width: 900px;
-    height: 300px;
+    height: 480px;
     /*background: #ccc;*/
     /*float: right;*/
     margin-bottom: 20px;
 }
 .pro-item h3{
-    font-size: 35px;
+    font-size: 28px;
     font-weight: normal;
     line-height: 35px;
     margin-top: 20px;
