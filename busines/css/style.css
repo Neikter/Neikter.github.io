@@ -574,7 +574,7 @@ h2 i {
 }
 .pro-item{
     max-width: 900px;
-    height: 480px;
+    height: 330px;
     /*background: #ccc;*/
     /*float: right;*/
     margin-bottom: 20px;
@@ -589,7 +589,7 @@ h2 i {
     line-height: 30px;
 }
 .project .pro-content {
-    width: 450px;
+    width: 480px;
     text-align: left;
 }
 .project .fr{
