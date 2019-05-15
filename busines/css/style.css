@@ -674,6 +674,9 @@ h2 i {
 .other .round{
     background: #4279df;
 }
+.other .round .itxt{
+    font-weight: 600;
+}
 .other .round .oth1{
     background-image: url(../img/oth1.png);
     -webkit-background-size: cover;
@@ -867,7 +870,6 @@ h2 i {
 .vopr {
     font-size: 24px;
     font-weight: 200;
-    margin-top: 90px;
 }
 .vopr a {
     text-decoration: underline;
@@ -907,7 +909,7 @@ h2 i {
     font-family: "roboto", Arial;
 }
 .foothead {
-    margin-top: -140px;
+    margin-top: 35px;
 }
 .kom-name a{
     display: none;	
