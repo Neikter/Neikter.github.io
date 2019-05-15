@@ -623,6 +623,11 @@ h2 i {
     background-image: url("../img/my_proj_bg6.jpg");
     text-align: left;
 }
+
+.project .pro7{
+    background-image: url("../img/my_proj_bg7.jpg");
+    text-align: left;
+}
 .getit .i1 {
     background: url(../img/i1b.png);
 }
